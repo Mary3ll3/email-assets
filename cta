@@ -1,0 +1,31 @@
+    <!-- cta -->
+    <table class="responsive-table" border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+        <tr>
+            <td align="center">
+                <!--[if gte mso 9]> <table id="outlookholder"border="0"cellspacing="0"cellpadding="0"align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0"cellspacing="0"cellpadding="0"width="650"align="center"><tr><td> <![endif]-->
+                <table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td class="section-padding-btn" bgcolor="#ffffff" align="center" style="padding: 5px 25px 5px 25px;">
+                            <table width="200" border="0" cellpadding="2" cellspacing="0" align="center" bgcolor="#000000" style="color:#ffffff; border: 1px solid #000000;">
+                                <tr>
+                                    <td>
+                                        <table width="200" class="responsive-btn" border="0" cellpadding="1" cellspacing="0" align="center" bgcolor="#000000">
+                                            <tr>
+                                                <td align="center" height="40" width="200">
+                                                    <a name="cta_hero_img" style="font-size: 16px; font-family:Arial, Helvetica, sans-serif; text-transform: uppercase; color: #ffffff; text-decoration: none; padding: 0; display: block;" xt="SPCLICK" href="${clickthrough('Hero_CTA_UGG_EU','EMAIL_SHA256_HASH_')}" target="_blank"><!--[if gte mso 9]>&nbsp; <![endif]-->VIEW CART<!--[if gte mso 9]>&nbsp; <![endif]--></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- cta -->
