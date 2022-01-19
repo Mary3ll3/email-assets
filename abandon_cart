@@ -1,0 +1,980 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+ 
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>UGG</title>
+    <style type="text/css">
+    /* Reset Styles */
+    .product-description {
+        text-align: center;
+        margin: auto;
+    }
+    img {
+        border: 0;
+        height: auto;
+        line-height: 100%;
+        outline: none;
+        text-decoration: none;
+    }
+    table {
+        border-collapse: collapse !important;
+    }
+    .min-width {
+        min-width: 100% !important;
+    }
+    body {
+        margin: 0;
+        padding: 0;
+        min-width: 100%;
+        width: 100% !important;
+    }
+    .min-width {
+        min-width: 100% !important;
+    }
+    /* TEXT RESIZING */
+    div[class="headline"] {
+        font-size: 14px !important;
+        line-height: 18px !important;
+    }
+    div[class="main-headline"] {
+        font-size: 28px !important;
+    }
+    /* TEXT RESIZING */
+    /* Apple specific Links */
+    .apple-link-black a {
+        color: #111111;
+        text-decoration: none;
+    }
+    .apple-link-gray a {
+        color: #999999;
+        text-decoration: none;
+    }
+    .apple-link-white a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    #outlook a {
+        padding: 0;
+    }
+    /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody {
+        width: 100%;
+    }
+    .ExternalClass {
+        width: 100%;
+    }
+    /* Force Hotmail to display emails at full width */
+    .ExternalClass,
+    .ExternalClass p,
+    .ExternalClass span,
+    .ExternalClass font,
+    .ExternalClass td,
+    .ExternalClass div {
+        line-height: 100%;
+    }
+    /* Force Hotmail to display normal line spacing */
+    body,
+    table,
+    td,
+    a {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    }
+    /* Prevent WebKit and Windows mobile changing default text sizes */
+    table,
+    td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+    }
+    /* Remove spacing between tables in Outlook 2007 and up */
+    img {
+        -ms-interpolation-mode: bicubic;
+    }
+    /* Fluid Mobile Media Queries */
+   
+    table[class="responsive-table-gmail-fix"] {
+        min-width: 0 !important;
+    }
+
+    @media only screen and (max-width:600px) {
+
+        
+        table[class="responsive-table-gmail-fix"] {
+            min-width: 0 !important;
+            width: 100% !important;
+            margin: 0 !important;
+            height: auto !important;
+        }
+        table[class="responsive-table"] {
+            min-width: 0 !important;
+            width: 100% !important;
+            height: auto !important;
+            margin: 0 !important;
+            float: none !important;
+        }
+        /* 100% Table for mobile */
+        table[class="responsive-table-footer"] {
+            min-width: 0;
+            width: 90% !important;
+            height: auto !important;
+        }
+        /* 90% Table for mobile footer */
+        table[class="responsive-btn"] {
+            width: 100% !important;
+            height: auto !important;
+        }
+        /* 100% Button for mobile */
+        img[class="img-max"] {
+            max-width: 100% !important;
+            width: 100% !important;
+            height: auto !important;
+        }
+        /* 100% Images */
+        td[class="section-padding"] {
+            padding: 35px 30px 35px 30px !important;
+        }
+        /* Section Padding */
+        td[class="section-padding-sides"] {
+            padding: 0 30px 0 30px !important;
+        }      
+        /* Section Padding */
+        td[class="section-padding-sans-top"] {
+            padding: 0 30px 35px 30px !important;
+        }
+        /* Section Padding */
+        td[class="section-padding-sans-bottom"] {
+            padding: 35px 30px 0 30px !important;
+        }
+        td[class="section-padding-sans-sides"] {
+            padding: 30px 0 30px 0 !important;
+        }
+        td[class="section-padding-sans-sides-top"] {
+            padding: 0px 0 30px 0 !important;
+        }
+        td[class="section-padding-sans-sides-bottom"] {
+            padding: 30px 0 0px 0 !important;
+        }
+        /* Section Padding */
+        td[class="section-padding-btn"] {
+            padding: 5px 0px 5px 0px !important;
+        }
+        div[class="main-headline"] span {
+            font-size: 30px !important;
+            line-height: 30px !important;
+        }
+        div[class="product-text"]{
+            font-size: 12px !important;
+        }
+        td[class="top-banner-text"]{
+            font-size: 12px !important;
+        }
+       
+        td[class="padding-top-mobile"] {
+            padding-top: 40px !important;
+        }
+        div[class="product-text"]{
+            font-size: 18px !important;
+            line-height: 20px !important;
+        }
+    }
+    /* Fancy Fonts */
+    @media screen {
+        @font-face {
+            font-family: 'proxima_nova_rgregular';
+            src: url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.woff') format('woff'), url('https://litmus.com/fonts/Emails/proximanova-regular-webfont.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'proxima_nova_rgbold';
+            src: url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.woff') format('woff'), url('https://litmus.com/fonts/Emails/proximanova-bold-webfont.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+    }
+    </style>
+    <!--[if gte mso 9]>
+    <style type="text/css">
+        table[class="responsive-table-gmail-fix"] {
+            min-width: 0px !important;
+        }
+    </style>
+ 
+    <![endif]-->
+   
+    <!--[if lte mso 11]>
+        <style type="text/css">
+           
+            img[class="product4a"] {
+                margin-top: 0 !important;
+                position: relative !important;
+                margin-left: -70px !important;
+            }
+            div[class="product4b"] {
+                margin-top: 0 !important;
+                position: initial !important;
+                text-align:right !important;
+            }
+        </style>
+    <![endif]-->
+   
+</head>
+<!-- Start Email Body -->
+ 
+<body style="margin: 0; padding: 0; align-content:center;" style="table-layout: fixed;" cellpadding="0" cellspacing="0" class="min-width">
+    <br>
+    <!-- Start Logo -->
+    <table border="0" cellpadding="0" cellspacing="0" class="min-width" align="center" style="table-layout: fixed;" width="100%">
+        <tr>
+            <td align="center">
+                <!--[if gte mso 9]> <table id="outlookholder" border="0" cellspacing="0" cellpadding="0" align="center" ><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0" cellspacing="0" cellpadding="0" width="600" align="center" ><tr><td> <![endif]-->
+                <table border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td align="center">
+                            <table border="0" cellpadding="0" cellspacing="0" class="responsive-table" align="center" width="600">
+                                <tr>
+                                    <td bgcolor="#ffffff" align="center" width="100%">
+                                        <a name="nav_logo" href="${clickthrough('Logo_UGG_EU','EMAIL_SHA256_HASH_')}" style="text-decoration:none;"><img id="img-logo" width="100" height="70" src="images/logo.PNG" alt="UGG" border="0" style="color:#111111; display:block;" /></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- End Logo -->
+ <br>
+    <!-- Start 2 column Hero next to Headline + Copy + Button -->
+    
+    <!-- headline -->
+    <table border="0" cellpadding="0" cellspacing="0" class="min-width" style="table-layout: fixed;" width="100%" align="center">
+        <tr>
+            <td align="center" bgcolor="#ffffff">
+                <!--[if gte mso 9]> <table id="outlookholder" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0" cellspacing="0" cellpadding="0" width="600" align="center"><tr><td> <![endif]-->
+                <table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td bgcolor="#ffffff" align="center" style="padding-top: 20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="500">
+                                <tr>
+                                    <td align="center">
+                                        <div class="main-headline">
+                                            <span style="font-size:40px; line-height:40px; font-family: Times New Roman, Georgia, Serif; font-weight: normal; color:#000000; text-decoration:none; vertical-align:middle; text-align:center; text-transform:uppercase;">DID YOU FORGET<br>SOMETHING?</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- headline -->
+    <!-- text -->
+    <table border="0" cellpadding="0" cellspacing="0" class="min-width" style="table-layout: fixed;" width="100%">
+        <tr>
+            <td align="center" bgcolor="#ffffff">
+                <!--[if gte mso 9]> <table id="outlookholder" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0" cellspacing="0" cellpadding="0" width="600" align="center"><tr><td> <![endif]-->
+                <table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td bgcolor="#ffffff" align="center" class="section-padding" style="padding-bottom: 20px; padding-top: 20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="300">
+                                <tr>
+                                    <td align="center" style="text-decoration: none; font-size: 16px; line-height: 24px; font-family: Arial, Helvetica, sans-serif; color: #000000; text-align:center; text-transform: none; ">
+                                        Take another look! With free shipping and free returns on full price products, you've got nothing to lose.
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>    
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- text -->
+    <!-- cta -->
+    <table class="responsive-table" border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+        <tr>
+            <td align="center">
+                <!--[if gte mso 9]> <table id="outlookholder"border="0"cellspacing="0"cellpadding="0"align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0"cellspacing="0"cellpadding="0"width="650"align="center"><tr><td> <![endif]-->
+                <table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td class="section-padding-btn" bgcolor="#ffffff" align="center" style="padding: 5px 25px 5px 25px;">
+                            <table width="200" border="0" cellpadding="2" cellspacing="0" align="center" bgcolor="#000000" style="color:#ffffff; border: 1px solid #000000;">
+                                <tr>
+                                    <td>
+                                        <table width="200" class="responsive-btn" border="0" cellpadding="1" cellspacing="0" align="center" bgcolor="#000000">
+                                            <tr>
+                                                <td align="center" height="40" width="200">
+                                                    <a name="cta_hero_img" style="font-size: 16px; font-family:Arial, Helvetica, sans-serif; text-transform: uppercase; color: #ffffff; text-decoration: none; padding: 0; display: block;" xt="SPCLICK" href="${clickthrough('Hero_CTA_UGG_EU','EMAIL_SHA256_HASH_')}" target="_blank"><!--[if gte mso 9]>&nbsp; <![endif]-->VIEW CART<!--[if gte mso 9]>&nbsp; <![endif]--></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- cta -->
+   <br>
+   <br>
+  
+    <!-- product -->
+    <table border="0" cellpadding="0" cellspacing="0" align="center" class="min-width" style="table-layout: fixed;" width="100%">
+        <tr>
+            <td align="center" bgcolor="#ffffff"  class="section-padding-sans-sides-bottom" style="padding-top: 20px;">
+                <!--[if gte mso 9]> <table id="outlookholder"border="0"cellspacing="0"cellpadding="0"align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0"cellspacing="0"cellpadding="0"width="630"align="center"><tr><td> <![endif]-->
+                <!-- table for the first set of img and links -->
+                <table border="0" cellpadding="0" cellspacing="0" align="top" class="responsive-table" width="600">
+                    <tr>
+                        <td align="center"">
+                            <table border="0" cellpadding="0" cellspacing="0" align="top" class="responsive-table-gmail-fix" width="600" style="min-width: 600px;">
+                                <tr>
+                                    <td align="center" style="font-size:20px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #2f3d47; font-weight:normal;" class="">
+                                       
+                                        <table border="0" cellpadding="0" cellspacing="0" align="left" width="40%">
+                                            <tr>
+                                                <td align="right">
+                                                    <a name="cta-prod-2-img" href="${clickthrough('Gifts_For_Her_EU','EMAIL_SHA256_HASH_')}">
+                                                        <img width="200" height="200" border="0" xt="SPIMAGE" src="images/Screen Shot 2022-01-13 at 5.05.01 PM.png" class="img-max" alt="" style="display: inline-block; padding: 0;" />
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="product-description">
+                                                    <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 70%; line-height: 1;">Womens</span><br>Chelsea Boots
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        
+                                        <table border="0" cellpadding="0" cellspacing="0" align="right" width="40%" valign="middle" style="vertical-align: middle;">
+                                            <tr>
+                                                <td align="center" class="padding-top-mobile" style="padding-top: 0px;">
+                                                        <a name="cta-prod-1-text" href="${clickthrough('Gifts_For_Her_EU','EMAIL_SHA256_HASH_')}">
+                                                            <img width="200" height="200" border="0" xt="SPIMAGE" src="images/Screen Shot 2022-01-13 at 5.04.51 PM.png" class="img-max" alt="" style="display: block; padding: 0;" />
+                                                        </a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="product-description">
+                                                    <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 70%; line-height: 1;">Womens</span><br>Combat Boots
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+  
+ 
+   <br><br>
+    <!-- product -->
+    <table border="0" cellpadding="0" cellspacing="0" align="center" class="min-width" style="table-layout: fixed;" width="100%">
+        <tr>
+            <td align="center" bgcolor="#ffffff"  class="section-padding-sans-sides-bottom" style="padding-top: 20px;">
+                <!--[if gte mso 9]> <table id="outlookholder"border="0"cellspacing="0"cellpadding="0"align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0"cellspacing="0"cellpadding="0"width="630"align="center"><tr><td> <![endif]-->
+                <!-- table for the first set of img and links -->
+                <table bgcolor="#d9c6b7" border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td align="center" bgcolor="#d9c6b7">
+                            <table  bgcolor="#d9c6b7" border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table-gmail-fix" width="600" style="min-width: 600px;">
+                                <tr>
+                                    <td bgcolor="#d9c6b7" align="center" style="font-size:20px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #2f3d47; font-weight:normal;" class="">
+                                       
+                                        <table border="0" cellpadding="0" cellspacing="0" align="left" width="48%">
+                                            <tr>
+                                                <td align="center">
+                                                    <a name="cta-prod-2-img" href="${clickthrough('Gifts_For_Her_EU','EMAIL_SHA256_HASH_')}">
+                                                        <img width="300" height="250" border="0" xt="SPIMAGE" src="images/01-01-ClassicShort-Hero.jpg" class="img-max" alt="" style="display: block; padding: 0;" />
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table border="0" cellpadding="0" cellspacing="0" align="right" width="48%" valign="middle" style="vertical-align: middle;">
+                                            <tr>
+                                                <td align="center" class="padding-top-mobile" style="padding-top: 80px;">
+                                                    <div align="center" class="product-text" style="font-size:32px; line-height: 34px; font-family: Times New Roman, Georgia, Serif; color: #2f3d47; text-align: center; text-transform: uppercase;">
+                                                        <a name="cta-prod-1-text" href="${clickthrough('Gifts_For_Her_EU','EMAIL_SHA256_HASH_')}" style=" color:#2f3d47; text-decoration: none;">
+                                                            <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 50%; line-height: 1;">SHOP</span><br>BOOTS
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- product -->
+    <!-- product -->
+    <table border="0" cellpadding="0" cellspacing="0" align="center" class="min-width" style="table-layout: fixed;" width="100%">
+        <tr>
+            <td align="center" bgcolor="#ffffff"  style="padding-top: 10px;">
+                <!--[if gte mso 9]> <table id="outlookholder"border="0"cellspacing="0"cellpadding="0"align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0"cellspacing="0"cellpadding="0"width="630"align="center"><tr><td> <![endif]-->
+                <!-- table for the first set of img and links -->
+                <table bgcolor="#d9c6b7" border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td align="center" bgcolor="#d9c6b7">
+                            <table  bgcolor="#d9c6b7" border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table-gmail-fix" width="600" style="min-width: 600px;">
+                                <tr>
+                                    <td bgcolor="#d9c6b7" align="center" style="font-size:20px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #2f3d47; font-weight:normal;" class="">
+                                       
+                                        <table border="0" cellpadding="0" cellspacing="0" align="right" width="48%">
+                                            <tr>
+                                                <td align="center">
+                                                    <a name="cta-prod-2-img" href="${clickthrough('Gifts_For_Him_EU','EMAIL_SHA256_HASH_')}">
+                                                        <img width="300" height="250" border="0" xt="SPIMAGE" src="images/AW21 Apparel Guidelines 8.192.jpg" class="img-max" alt="" style="display: block; padding: 0;" />
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table border="0" cellpadding="0" cellspacing="0" align="left" width="48%" valign="middle" style="vertical-align: middle;">
+                                            <tr>
+                                                <td align="center" class="padding-top-mobile" style="padding-top: 80px;">
+                                                    <div align="center" class="product-text" style="font-size:32px; line-height: 34px; font-family: Times New Roman, Georgia, Serif; color: #2f3d47; text-align: center; text-transform: uppercase;">
+                                                        <a name="cta-prod-1-text" href="${clickthrough('Gifts_For_Him_EU','EMAIL_SHA256_HASH_')}" style=" color:#2f3d47; text-decoration: none;">
+                                                            <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 50%; line-height: 1;">SHOP</span><br>APPAREL
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- product -->
+    <!-- product -->
+    <table border="0" cellpadding="0" cellspacing="0" align="center" class="min-width" style="table-layout: fixed;" width="100%">
+        <tr>
+            <td align="center" bgcolor="#ffffff" style="padding-top: 10px;">
+                <!--[if gte mso 9]> <table id="outlookholder"border="0"cellspacing="0"cellpadding="0"align="center"><tr><td> <![endif]-->
+                <!--[if (IE)]> <table border="0"cellspacing="0"cellpadding="0"width="630"align="center"><tr><td> <![endif]-->
+                <!-- table for the first set of img and links -->
+                <table bgcolor="#d9c6b7" border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table" width="600">
+                    <tr>
+                        <td align="center" bgcolor="#d9c6b7">
+                            <table  bgcolor="#d9c6b7" border="0" cellpadding="0" cellspacing="0" align="center" class="responsive-table-gmail-fix" width="600" style="min-width: 600px;">
+                                <tr>
+                                    <td bgcolor="#d9c6b7" align="center" style="font-size:20px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #2f3d47; font-weight:normal;" class="">
+                                       
+                                        <table border="0" cellpadding="0" cellspacing="0" align="left" width="48%">
+                                            <tr>
+                                                <td align="center">
+                                                    <a name="cta-prod-2-img" href="${clickthrough('Gifts_For_Kids_EU','EMAIL_SHA256_HASH_')}">
+                                                        <img width="300" height="250" border="0" xt="SPIMAGE" src="images/04-03-M-Slippers-Secondary.jpg" class="img-max" alt="" style="display: block; padding: 0;" />
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table border="0" cellpadding="0" cellspacing="0" align="right" width="48%" valign="middle" style="vertical-align: middle;">
+                                            <tr>
+                                                <td align="center" class="padding-top-mobile" style="padding-top: 80px;">
+                                                    <div align="center" class="product-text" style="font-size:32px; line-height: 34px; font-family: Times New Roman, Georgia, Serif; color: #2f3d47; text-align: center; text-transform: uppercase;">
+                                                        <a name="cta-prod-1-text" href="${clickthrough('Gifts_For_Kids_EU','EMAIL_SHA256_HASH_')}" style=" color:#2f3d47; text-decoration: none;">
+                                                            <span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 50%; line-height: 1;">SHOP</span><br>SLIPPERS
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--[if gte mso 9]> </td></tr></table> <![endif]-->
+                <!--[if (IE)]> </td></tr></table> <![endif]-->
+            </td>
+        </tr>
+    </table>
+    <!-- product -->
+   
+   
+
+<!-- Start Footer -->
+<table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;min-width:300px;margin:0 auto;" class="row row-6">
+    <tbody>
+    <tr>
+    <td style="background:#ffffff;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tbody>
+    <tr>
+    <td>
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tbody>
+    <tr>
+    <td style="text-align:left;vertical-align:top;font-size:0px">
+    <table class="tolkien-column tolkien-column-12 col col-0" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:100%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:480px;min-width:-webkit-calc(100%);min-width:calc(100%);">
+    <tbody>
+    <tr>
+    <td style="background-color:transparent;line-height:18px;padding:0px 0px 0px 0px;" class="elq-code-cell cell cell-0">
+    <div style="display:inline-block;width:100%;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap" bgcolor="#ffffff" style="width:100%;"> 
+     <tr>
+    <td align="center" valign="top" style="padding-bottom:30px;">
+            <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:100%; table-layout:fixed;">
+    <tr>
+    <td bgcolor="#000000" style="padding:10px 0; width:100%; text-align:center;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYAT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=k8hltcmohtid3fko1ro5mc4j7ulueneuio8r00nd734os0pic4gg"><img alt="UGG Rewards" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/us_contentassets/images/Rewards_banner_white_logo2.png" style="border-width:0; max-width:110px; margin: 0 auto;" width="110"/></a>
+            </td>
+    </tr>
+    <tr>
+    <td bgcolor="#FFFFFF" style="padding:10px 0; width:100%; text-align:center; padding-top: 20px;"><p style="Margin:0; font-size:15px; Margin-bottom:10px; line-height: 10px; text-transform: uppercase; color: #000000; font-family:'Open Sans', Arial, Verdana, sans-serif; font-weight:bold; letter-spacing: .05em">Ready to get rewarded?</p>
+    </td>
+    </tr>
+    
+    
+    <!-- Start Side x Side Icons -->
+    <table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;min-width:300px;margin:0 auto;">
+     <tbody>
+    <tr>
+     <td style="background:#ffffff;">
+    <table align="center" width="85%" cellpadding="0" cellspacing="0">
+     <tbody>
+    <tr>
+     <td>
+    <table width="100%" cellpadding="0" cellspacing="0">
+     <tbody>
+    <tr>
+     <td style="text-align:left;vertical-align:top;font-size:0px">
+    <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+     <tbody>
+    <tr>
+     <td align="center" valign="middle" style="line-height:52px;mso-line-height-rule:52px exactly;padding:15px 0px 5px 0px;" class="elq-text-cell cell">
+    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+     <div valign="middle" align="center"> <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYCT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=rhcgnp2hl65skcg0rn1mbkkb9817b62ujuilhvam48mthsa0m26g"><img border="0" class="em_full_img" height="60" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_us_loyalty/images/uggiconlock_100.png" style="display:block; max-width:60px;" width="60" /></a></div>
+    </div>
+     </td> 
+    </tr>
+    <tr>
+     <td align="center" valign="middle" style="line-height:20px;mso-line-height-rule:20px exactly;padding:5px 0px 5px 0px;" class="elq-text-cell cell">
+    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+     <div valign="middle" align="center" style="background-color:white;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYCT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=ickk4p2nvjm8e7n8ok3versh0cgscub5bj29g9f7mmenv0lukq1g" name="women_nav" style="color: #0a6430; text-decoration:none; display:inline-block;">Early Shopping Access</a></div>
+    </div>
+     </td>
+    </tr>
+     </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+     </td>
+     <td width="33.33333333%" style="text-align:left;vertical-align:top;font-size:14px">
+    <![endif]-->
+    <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+     <tbody>
+    <tr>
+     <td align="center" valign="middle" style="background-color:transparent;line-height:52px;mso-line-height-rule:52px exactly;padding:15px 0px 5px 0px;" class="elq-text-cell cell">
+    <div align="center" valign="middle" style="display:inline-block;width:100%;">
+     <div valign="middle" align="center"> <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYCT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=rhcgnp2hl65skcg0rn1mbkkb9817b62ujuilhvam48mthsa0m26g"><img border="0" class="em_full_img" height="60" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_us_loyalty/images/uggicontruck_100w.png" style="display:block; max-width:60px;" width="60" /></a></div>
+    </div>
+     </td>
+    </tr>
+     <tr>
+     <td align="center" valign="middle" style="line-height:20px;mso-line-height-rule:20px exactly;padding:5px 0px 5px 0px;" class="elq-text-cell cell">
+    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+     <div valign="middle" align="center" style="background-color:white;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYCT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=ickk4p2nvjm8e7n8ok3versh0cgscub5bj29g9f7mmenv0lukq1g" name="women_nav" style="color: #0a6430; text-decoration:none; display:inline-block;">Shipping Perks</a></div>
+    </div>
+     </td>
+    </tr>
+     </tbody>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+     </td>
+     <td width="33.33333333%" style="text-align:left;vertical-align:top;font-size:14px">
+    <![endif]-->
+    <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+     <tbody>
+    <tr>
+     <td align="center" valign="middle" style="background-color:transparent;line-height:52px;mso-line-height-rule:52px exactly;padding:15px 0px 5px 0px;" class="elq-text-cell cell">
+    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+     <div valign="middle" align="center"> <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYCT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=rhcgnp2hl65skcg0rn1mbkkb9817b62ujuilhvam48mthsa0m26g"><img border="0" class="em_full_img" height="60" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_us_loyalty/images/uggiconstar_100w.png" style="display:block; max-width:180px;" width="60" /></a></div>
+    </div>
+    </tr>
+     <tr>
+     <td align="center" valign="middle" style="line-height:20px;mso-line-height-rule:20px exactly;padding:5px 0px 5px 0px;" class="elq-text-cell cell">
+    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+     <div valign="middle" align="center" style="background-color:white;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAYCT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=ickk4p2nvjm8e7n8ok3versh0cgscub5bj29g9f7mmenv0lukq1g" name="women_nav" style="color: #0a6430; text-decoration:none; display:inline-block;">And so <br> much more.</a></div>
+    </div>
+     </td>
+    </tr>
+     </tbody>
+    </table>
+     </td>
+    </tr>
+     </tbody>
+    </table>
+     </td>
+    </tr>
+     </tbody>
+    </table>
+     </td>
+    </tr>
+     <tr>
+     <td height="20" style="height:20px;" class="">&nbsp;</td>
+    </tr>
+     </tbody>
+    </table>
+    <!-- End Side x Side Icons -->
+    
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="em_main_table" style="width:160px; table-layout:fixed;" width="160">
+    <tbody>
+    <tr>
+    <td align="center" valign="top">
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:100%; table-layout:fixed; ">
+    
+    <tr>
+    <td bgcolor="#111111;" style="padding:20px; border:1px solid #000000; width:100%; text-align:center;">
+    <p style="Margin:0; font-size:14px; line-height: 11px; text-transform: uppercase; letter-spacing: .05em; background-color: #000000; font-family: 'Open Sans', Arial, Verdana, sans-serif; "> <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAART&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=m5ol6id55eeu38bocjkui7ebvph4vvmu48knc2q4v1fl63qpaob0" style="color: #ffffff; display:block; text-decoration: none; "><font face="'Open Sans', Arial, Verdana, sans-serif;">Join now</font></a></p>
+    </td>
+    </tr>
+    <tr>
+     <td height="20" style="height:20px;" class="">&nbsp;</td>
+    </tr>
+    </table>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    
+    
+    <hr size="5" noshade; color="#000000"></table><table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="width:100%;">
+     <!-- START FOOTER --><!-- Start Find a Store Image -->
+        <tr>
+            <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 20px">
+                <table align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td valign="top" align="left" width="60" style="width:60px;">
+                        <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAATT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=vc1pua07bobkbnb56ma17noveta52jasubs3isl9pkunqh0ejeqg" target="_blank" style="text-decoration:none;"> <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/us_contentassets/visualtemplate/images/find_store_icon_black.png" width="40" height="40" alt="" border="0" style="display:block; max-width:40px;" /></a>
+                        </td>
+                        <td class="em_defaultlink" valign="middle" align="left" style="font-family:'Open Sans', Arial, sans-serif; font-size:14px; line-height:36px; color:#000000; font-weight:normal; text-transform:uppercase;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAAWT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=kjd232ea3jp84nlee7ughahagbc5ga1hqpnc0ssvu6vsmb1ldns0" target="_blank" style="text-decoration:none; color:#000000;">find a store</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- End Find an Outlet Image -->
+    
+    <!-- Start Side x Side Buttons -->
+    <table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;min-width:300px;margin:0 auto;">
+       <tbody>
+          <tr>
+             <td style="background:#ffffff;">
+                <table align="center" width="85%" cellpadding="0" cellspacing="0">
+                   <tbody>
+                      <tr>
+                         <td>
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                               <tbody>
+                                  <tr>
+                                     <td style="text-align:left;vertical-align:top;font-size:0px">
+                                        <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" valign="middle" style="line-height:52px;mso-line-height-rule: exactly;padding:10px 5px 10px 5px;" class="elq-text-cell cell">
+                                                    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+                                                       <div valign="middle" align="center" style="mso-text-raise: 12px;background-color:#111111;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;border:1px solid #000000;padding:0px 0px 0px 0px;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAAAT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=bb3b6k99f92eqq3rrb9qgsm1tgu07a48q6ma9gsm6neubgpe9fr0" name="women_nav" style="color: #ffffff; text-decoration:none; display:inline-block;">SHOP WOMEN</a></div>
+                                                    </div>
+                                                 </td>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                        <!--[if (gte mso 9)|(IE)]>
+                                     </td>
+                                     <td width="33.33333333%" style="text-align:left;vertical-align:top;font-size:0px">
+                                        <![endif]-->
+                                        <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" valign="middle" style="background-color:transparent;line-height:52px;mso-line-height-rule: exactly;padding:10px 5px 10px 5px;" class="elq-text-cell cell">
+                                                    <div align="center" valign="middle" style="display:inline-block;width:100%;">
+                                                       <div valign="middle" align="center" style="mso-text-raise: 12px;background-color:#111111;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;border:1px solid #000000;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAACT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=l54jsqcu9nnd9lm3kd0bh68d566mrph0ffnt51rsrpbf31u5lohg"  name="men_nav" style="color: #ffffff; text-decoration:none; display:inline-block;">SHOP MEN</a></div>
+                                                    </div>
+                                                 </td>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                        <!--[if (gte mso 9)|(IE)]>
+                                     </td>
+                                     <td width="33.33333333%" style="text-align:left;vertical-align:top;font-size:0px">
+                                        <![endif]-->
+                                        <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" valign="middle" style="background-color:transparent;line-height:52px;mso-line-height-rule: exactly;padding:10px 5px 10px 5px;" class="elq-text-cell cell">
+                                                    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+                                                       <div valign="middle" align="center" style="mso-text-raise: 12px;background-color:#111111;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;border:1px solid #000000;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUABRT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=gadm7dq46t4f9a23hrsgqsbtonqghl620tam2mc884onbdqshqrg"  name="kids_nav" style="color: #ffffff; text-decoration:none; display:inline-block;">SHOP KIDS</a></div>
+                                                    </div>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                     </td>
+                                  </tr>
+                               </tbody>
+                            </table>
+                         </td>
+                      </tr>
+                   </tbody>
+                </table>
+             </td>
+          </tr>
+       </tbody>
+    </table>
+    <!-- End Side x Side Buttons -->
+    
+
+    <!-- Start copy -->
+        <tr>
+            <td align="center" valign="top" style="padding-top: 40px; padding-bottom: 0px">
+                <table align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td class="em_defaultlink" valign="middle" align="left" style="font-family:'Open Sans', Arial, sans-serif; font-size:14px; line-height:20px; color:#000000; font-weight:normal; text-transform:uppercase;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAAWT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=kjd232ea3jp84nlee7ughahagbc5ga1hqpnc0ssvu6vsmb1ldns0" target="_blank" style="text-decoration:none; color:#ffffff;">connect with us</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    <!-- End copy -->
+    </table>
+    
+    <!-- Social Media -->
+                <table align="center" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px; background-color: #000000;">
+                <tr>
+                  <td align="center" style="padding: 20px 0 15px; text-align:center; font-size:0;">
+                  <!-- These conditional columns are important, because without them Outlook will not let our two floating tables sit neatly side-by-side. As Outlook doesn't support max-width either, these columns help restrict each column to the correct size. -->
+                  <!--[if (gte mso 9)|(IE)]>
+                  <table width="50%" style="border-spacing:0;color:#000000;">
+                  <tr>
+                  <td width="57%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+                  <![endif]-->
+                   <!-- Column 1 -->
+                    <div style="width:100%; max-width:180px; display:inline-block; vertical-align:top;">
+                      <table align="center" bgcolor="#000000" style="border-spacing:0; color:#000000;" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" style="padding:5px 0;">
+                              <table align="center" style="border-spacing:0; color:#000000; width:100%; font-size:14px; text-align:left;">
+                                <tbody>
+                                  <tr>
+                                    <!-- Blog -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUABWT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=5ebqfsj84r78mmr6emtjkpdid1mf673gbhndthrjav16mfilfg30" name="footer_blog"><img alt="UGG Blog" height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/blog_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                   <!-- Facebook -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUABAT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=l7ts47rtrng27a07r27s991b6or3ip52snpnbj0jjvn9cc3j79g0" name="footer_facebook"><img alt="Facebook" height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/facebook_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                    <!-- Instagram -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUABCT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=vkl0968i1052lf157dps5bo3erlcisd395ruo7jgjb17msj8krqg" name="footer_instagram"><img alt="Instagram" height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/instagram_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                    <!-- Pinterest -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUACRT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=8pa5vnbfd6te5hc5q54n2m1i0egemnctujnhbf7l832154v6o9s0" name="footer_pinterest"><img alt="Pinterest" height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/pintrest_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+    
+                      <!--[if (gte mso 9)|(IE)]>
+                  </td><td width="43%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+                  <![endif]-->
+    
+                   <!-- Column 2 -->
+                    <div style="width:100%; max-width:140px; display:inline-block; vertical-align:top;">
+                      <table align="center" bgcolor="#000000" style="border-spacing:0; color:#000000;" width="100%">
+                        <tbody>
+                          <tr>
+                            <td align="center" style="padding:5px 0;">
+                              <table align="center" style="border-spacing:0; color:#000000; width:100%; font-size:14px; text-align:left;">
+                                <tbody>
+                                  <tr><!-- Twitter -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUACTT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=9jtb68a3v26g9nke0vdeqvmfm462200h1mdehtfd3mepgkmjpjmg" name="footer_twitter"><img alt="Twitter"
+    height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/twitter_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                    <!-- Snapchat -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUACWT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=bbetrttjii73cs8horeaeuktk5p78kga9dnriivh7ubf9a78hs40" name="footer_snapchat"><img alt="Snapchat" height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/snapchat_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                    <!-- YouTube -->
+                                    <td align="center" style="padding: 0;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUACAT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=5f8rli79jm64e34ifhh8ljhah6d301kitrc0vojmp2khbepsu1tg" name="footer_youtube"><img alt="YouTube" height="40" src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/youtube_logo1.png" style="font-size:12px; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-weight:normal; text-transform:uppercase; color:#000000; display:block; border-width:0; max-width: 40px;" width="40" /> </a>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+                    <!--[if (gte mso 9)|(IE)]>
+                  </td>
+                  </tr>
+                  </table>
+                  <![endif]-->
+               </td>
+                </tr>
+                </table>
+                <!-- End Social Media --><table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000" style="width:100%;">
+    <!-- Start copy -->
+        <tr>
+            <td align="center" valign="top" style="padding-top: 0px; padding-bottom: 20px">
+                <table align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td class="em_defaultlink" valign="middle" align="left" style="padding: 15px 0 0; font-family:'Open Sans', Arial, sans-serif; font-size:14px; color:#000000; font-weight:normal; text-transform:uppercase;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUAAWT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=kjd232ea3jp84nlee7ughahagbc5ga1hqpnc0ssvu6vsmb1ldns0" target="_blank" style="text-decoration:none; color:#ffffff;">Contact US</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    <!-- End copy -->
+    
+    <!-- Start Side x Side Buttons -->
+                
+        <tr>
+            <td>
+                
+                    <table width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;min-width:300px;margin:0 auto;">
+       <tbody>
+          <tr>
+             <td style="background:#000000;">
+                <table align="center" width="85%" cellpadding="0" cellspacing="0">
+                   <tbody>
+                      <tr>
+                         <td>
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                               <tbody>
+                                  <tr>
+                                     <td style="text-align:left;vertical-align:top;font-size:0px">
+                                        <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" valign="middle" style="line-height:40px;padding:10px 5px 10px 5px;" class="elq-text-cell cell">
+                                                    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+                                                       <div valign="middle" align="center" style="background-color:white;font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;background:#ffffff;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUADTT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=92s8ja51nalbv4qm022k2ic8nirlelb4gfqhbkj7bfjc6kp0bdo0" target="_blank" style="color:#313131; text-decoration:none;"> <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/button_1.png" alt="LIVE CHAT" width="160" style="display:block; font-family:Arial, sans-serif; font-size:14px; line-height:54px; bgcolor:#ffffff;" border="0" /> </a></div>
+                                                    </div>
+                                                 </td>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                        <!--[if (gte mso 9)|(IE)]>
+                                     </td>
+                                     <td width="33.33333333%" style="text-align:left;vertical-align:top;font-size:0px">
+                                        <![endif]-->
+                                        <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" valign="middle" style="background-color:transparent;line-height:40px;padding:10px 5px 10px 5px;" class="elq-text-cell cell">
+                                                    <div align="center" valign="middle" style="display:inline-block;width:100%;">
+                                                       <div valign="middle" align="center" style="font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#ffffff;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%; background:#ffffff;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUACCT&_ei_=EmTUOwa1ULmLxlBKi7CTndAloTNeMcAuAJ1OcfVzHMx38J9zj0jjpHf50KF0XAVZ_wrWYA2T_GxpnPyuBmkavHu1cGswH0dhgLFEBvrJ1BT2oD4Pr1jyPLb4xE8CjWFQT74biPggZIIlBI-xrWzclA3OSYmtlxswUdFeHd-S9WIFdSveCczrgm-2RRwg-ZzoZHO80ImNjFS1c9ocoYgh6Kwz2keF8rNmFAtCLj3Z9LkvsW6tXda9RiD_wmttZxUIx01jTf0wcfu-4Sw.&_di_=lu44vtgt42qgvkbfohl4pf14cmdln4joudd9ru4jruhtcpcd8e6g" target="_blank" style="color:#313131; text-decoration:none;"> <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/button_2.png" alt="CALL US" width="160" style="display:block; font-family:Arial, sans-serif; font-size:14px; line-height:54px; bgcolor:#ffffff;" border="0" /></a></div>
+                                                    </div>
+                                                 </td>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                        <!--[if (gte mso 9)|(IE)]>
+                                     </td>
+                                     <td width="33.33333333%" style="text-align:left;vertical-align:top;font-size:0px">
+                                        <![endif]-->
+                                        <table class="tolkien-column tolkien-column-4" cellpadding="0" cellspacing="0" style="vertical-align:top;display:inline-table;background:transparent;table-layout:fixed;font-family:Garamond, Baskerville, &quot;Times New Roman&quot;, serif;font-size:12px;color:#000000;max-width:100%;width:33.33333333%;width:-webkit-calc(230400px - 48000%);width:calc(230400px - 48000%);min-width:160px;min-width:-webkit-calc(33.33333333%);min-width:calc(33.33333333%);">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" valign="middle" style="background-color:transparent;line-height:40px;padding:10px 5px 10px 5px;" class="elq-text-cell cell">
+                                                    <div valign="middle" align="center" style="display:inline-block;width:100%;">
+                                                       <div valign="middle" align="center" style="font-family:'Open Sans', Arial, sans-serif;font-size:14px;color:#000000;font-weight:normal;text-transform:uppercase;text-align: center; max-width:160px;height:100%;background:#ffffff;"><a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUADWT&_ei_=Eq2tf9zs59idfPO1Sc_9BblvwXPfA4iVy9wqpmw40JQAevSieQZnrH13RhSLJs2iXmr6gIkIrLW2oUFr9FwO2SoLaCIMQ0.&_di_=93mefc43s7gbr755e3a4crg7ejfnsffbm6mi50l7fk0efnfeh9gg" target="_blank" style="color:#313131; text-decoration:none;"> <img src="https://static.cdn.responsys.net/i2/responsysimages/uggs/contentlibrary/ugg_template_2019/images/button_3.png" alt="EMAIL US" width="160" style="display:block; font-family:Arial, sans-serif; font-size:14px; line-height:54px; color:#ffffff;" border="0" /></a></div>
+                                                    </div>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                     </td>
+                                  </tr>
+                               </tbody>
+                            </table>
+                         </td>
+                      </tr>
+                   </tbody>
+                </table>
+             </td>
+          </tr>
+       </tbody>
+    </table>
+               </td>
+                </tr>
+                <!-- End Side x Side Buttons -->
+    
+                <!-- Start Disclaimer -->
+                <tr style="background-color:#000000;">
+                  <td style="padding:20px 0 0; background-color:#000000;">
+                    <table style="border-spacing:0; color:#ffffff;" align="center" width="75%" bgcolor="#000000">
+                      <tbody style="background-color:#000000;">
+                        <tr style="background-color:#000000;">
+                          <td style="background-color:#000000; padding:10px 25px; width:100%; text-align:center;">
+                            <div style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#fffffff; font-family: 'Open Sans', Helvetica, Arial, sans-serif;">*We charge a flat shipping rate of $5 per orders placed on ugg.com/ca. Please expect
+          your delivery in 2-4 business days. In some rural areas an extra 3 business days
+          may be needed for delivery. 
+                            </div>
+                            <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#ffffff; font-family: 'Open Sans', Helvetica, Arial, sans-serif;">This product contains real fur from sheep or lamb originating in Australia, the European Union or the United States. The fur has been artificially dyed and treated. This product is made in China. RN# 88276.
+                            </p>
+                              <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#ffffff; font-family: 'Open Sans', Helvetica, Arial, sans-serif;">UGG.com/ca
+                            </p>  
+                            <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#ffffff; font-family: 'Open Sans', Helvetica, Arial, sans-serif;">We only send emails to individuals who have registered at our site: <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUADAT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=gmqb7i7fdlrprbjhh0m0j7ob2bvmh1kcd93dog7r55vstqvajstg" name="footer_ugghomepage" style="color:#ffffff; text-decoration:underline;">www.ugg.com/ca</a>.
+                            </p>
+                              <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#ffffff; font-family: 'Open Sans', Helvetica, Arial, sans-serif;"><span class="apple-link-black"><strong>1.888.432.8530</strong> <br>11525 Main Street Suite 500, Broomfield, CO 80020</span>
+                              <br />
+                                <a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUADCT&_ei_=EsUw-H2gaTqY-lnlhV8UXk6lOGwmkhGFDLqqhOBkywslazvVP_7iaAQtfAnb2sjuy8P40P130APgiJUOg6Xkn2qxHh49rHUFcONogPowP2ZqlCvGD-dm_4WHphG_9Z4-7cfHP_QOsN7AppwSTAYJ_I2AqiMKD8E9L5KaQHttVbVRIgTuvADrixGiBtoX8yLXkDRBQsYnlXAoU0.&_di_=u3mjd5rgtb7pdnhu6eqa7ouceckl7j1afrqr356pig5tikf1bfh0" name="footer_privacy" style="color:#ffffff; text-decoration:underline;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://email.ugg.com/pub/optout?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5&_ei_=EolaGGF4SNMvxFF7KucKuWNnZcHvY2VnBnQOM4MgQaUfEcBfin7cAta9n4aCXy_sVehk8GHyrCj0Kd-7hvA" style="text-decoration:underline; color:#ffffff;">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://email.ugg.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGudN9wUJUI7jmzgmO6c47h6r5zdNFkq2zelj9r11zgUNCI84oH8qlyBLJza5VXtpKX%3DSTYTUADRT&_ei_=EmTUOwa1ULmLxlBKi7CTndAloTNeMcAuAJ1OcfVzHMx38J9zj0jjpHf50KF0XAVZ_wrWYA2T_GxpnPyuBmkavHu1cGswH0dhgLFEBvrJ1BT2oD4Pr1jyPLb4xE8CjWFQT74biPggZIIlBI-xrWzclA3OSYmtlxswUdFeHd-S9WIFdSveCczrgm-2RRwg-ZzoZHO80ImNjFS1c9ocoYgh6Kwz2keF8rNmFAtCLj3Z9LkvsW6tXda9RiD_wmttZxUIx01jTf0wcfu-4Sw.&_di_=ed6vil4rljis63aohm7qabanb4upt7mjtls32cppd4u3ldtefru0" style="text-decoration:underline; color:#ffffff;">View in Browser</a>
+                            </p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <!-- End Disclaimer -->
+   
+</body>
+</html>
+
+
